@@ -16,3 +16,7 @@ Data: Precomputed movie similarity matrix and movie metadata (pickled pandas Dat
 API: TMDB API for fetching movie posters
 This project is ideal for learning about recommendation systems, web app deployment with Streamlit, and integrating external APIs for enhanced user experience.
 
+
+
+https://github.com/user-attachments/assets/e9989586-067d-43b4-9da3-f2e751a321bf
+

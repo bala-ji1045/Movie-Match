@@ -18,5 +18,7 @@ This project is ideal for learning about recommendation systems, web app deploym
 
 
 
-https://github.com/user-attachments/assets/e9989586-067d-43b4-9da3-f2e751a321bf
+
+https://github.com/user-attachments/assets/c82c97b2-d68e-4ea3-938a-75901982a703
+
 

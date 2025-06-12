@@ -1,5 +1,5 @@
 # Movie-Match
-Project Description: Movie Recommendation System  This project is a web-based Movie Recommendation System built using Streamlit. It allows users to select a movie they like and instantly receive personalized movie recommendations, each displayed with its poster and title in an attractive card layout.  
+Project Description: Movie Recommendation System  This project is a web-based Movie Recommendation System built using gardio. It allows users to select a movie they like and instantly receive personalized movie recommendations, each displayed with its poster and title in an attractive card layout.  
 Key Features:
 
 User-Friendly Interface: Clean, modern UI with a dark theme and card-based design for recommendations.
@@ -10,11 +10,11 @@ When a user selects a movie and clicks "Recommend," the app finds the most simil
 For each recommended movie, the app fetches and displays the poster and title in a responsive layout.
 Tech Stack:
 
-Frontend & App Framework: Streamlit
+Frontend & App Framework: gardio
 Backend: Python
 Data: Precomputed movie similarity matrix and movie metadata (pickled pandas DataFrames)
 API: TMDB API for fetching movie posters
-This project is ideal for learning about recommendation systems, web app deployment with Streamlit, and integrating external APIs for enhanced user experience.
+This project is ideal for learning about recommendation systems, web app deployment with gardio, and integrating external APIs for enhanced user experience.
 
 
 
